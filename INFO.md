@@ -4,3 +4,4 @@ experiment with amend
 experiment with amend
 first line
 second line
+new string
